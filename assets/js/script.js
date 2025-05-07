@@ -1,6 +1,7 @@
 // Assignment Code
 var generateBtn = document.querySelector("#generate");
 
+
 var passwordLength;
 var confirmLower;
 var confirmUpper;
