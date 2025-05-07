@@ -1,3 +1,49 @@
-# Password Generator Starter Code
+Password Generator
 
-This week’s Challenge requires you to create an application that an employee can use to generate a random password based on criteria they’ve selected. This app will run in the browser, and will feature dynamically updated HTML and CSS powered by JavaScript code that you write. It will have a clean and polished user interface that is responsive, ensuring that it adapts to multiple screen sizes. This week’s coursework will teach you all the skills you need to succeed in this assignment.
+Description
+This application allows users—such as employees—to generate a random password based on selected criteria, including length and character types (uppercase, lowercase, numbers, and special characters). The password generator runs in the browser and features dynamically updated HTML and CSS powered by JavaScript. It has a clean, responsive user interface that works across various screen sizes.
+
+Features
+Generate secure, random passwords
+
+Customizable password length
+
+Options to include:
+
+Uppercase letters
+
+Lowercase letters
+
+Numbers
+
+Special characters
+
+Responsive and user-friendly interface
+
+Built with vanilla HTML, CSS, and JavaScript
+
+Usage
+Click the "Generate Password" button.
+
+Answer the prompts to select password criteria.
+
+A password will be generated and displayed in the designated text area.
+
+Screenshot
+(Include a screenshot here if available)
+
+Technologies Used
+HTML
+
+CSS
+
+JavaScript
+
+Getting Started
+To run the app:
+
+Clone the repository
+
+Open index.html in a web browser
+
+Interact with the app to generate a custom password
