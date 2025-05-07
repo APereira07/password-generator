@@ -1,49 +1,5 @@
-Password Generator
+This project is a simple yet powerful password generator that allows users to create secure, random passwords based on customizable criteria. Designed to be used directly in the browser, the application features a clean, polished, and responsive user interface built with HTML, CSS, and JavaScript. Users can specify the desired password length and choose which character types to include—uppercase letters, lowercase letters, numbers, and special characters. Once the user provides their preferences through a series of prompts, a secure password is generated and displayed in a text field on the page.
 
-Description
-This application allows users—such as employees—to generate a random password based on selected criteria, including length and character types (uppercase, lowercase, numbers, and special characters). The password generator runs in the browser and features dynamically updated HTML and CSS powered by JavaScript. It has a clean, responsive user interface that works across various screen sizes.
+The purpose of this project is to help users—such as employees—easily generate strong passwords that meet security requirements, without the need for third-party tools. It also serves as a practical exercise in using JavaScript to manipulate the DOM and handle user input dynamically. The interface adapts well to various screen sizes, ensuring a seamless experience on both desktop and mobile devices.
 
-Features
-Generate secure, random passwords
-
-Customizable password length
-
-Options to include:
-
-Uppercase letters
-
-Lowercase letters
-
-Numbers
-
-Special characters
-
-Responsive and user-friendly interface
-
-Built with vanilla HTML, CSS, and JavaScript
-
-Usage
-Click the "Generate Password" button.
-
-Answer the prompts to select password criteria.
-
-A password will be generated and displayed in the designated text area.
-
-Screenshot
-(Include a screenshot here if available)
-
-Technologies Used
-HTML
-
-CSS
-
-JavaScript
-
-Getting Started
-To run the app:
-
-Clone the repository
-
-Open index.html in a web browser
-
-Interact with the app to generate a custom password
+To use the application, simply clone the repository, open the index.html file in your web browser, and click the "Generate Password" button. Follow the on-screen prompts to define your password criteria, and your unique password will appear instantly.
